@@ -1,0 +1,32 @@
+{
+  "name": "Bully-Wise \u2014 Mudstreet",
+  "short_name": "Bully-Wise",
+  "description": "Teach kids to stand up for themselves \u2014 anti-bullying self-advocacy coaching",
+  "start_url": "/bully-wise/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#6040C0",
+  "background_color": "#F5F0FF",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "education",
+    "health",
+    "parenting"
+  ],
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "/bully-wise/"
+}
