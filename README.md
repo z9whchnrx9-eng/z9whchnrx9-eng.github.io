@@ -1,6 +1,6 @@
 # Mudstreet — ADHD Family Toolbox
 
-Free tools for ADHD families, available in 27 languages.
+Free tools for ADHD families, available in  6 languages.
 
 ## Live Site
 Visit: https://mudstreet.github.io
